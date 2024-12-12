@@ -16,7 +16,7 @@
 
 
 </h2>
-<div class="container" style= "height: 399px;" margin="0 auto">
+<div class="container" style= "height: 399px;" >
 
 
 <h3>My favorite tools and technologies ⚙️</h3> 
@@ -24,7 +24,7 @@
 > Tools and technologies that I work with and am interested in
 
  
-<table align="left" margin=0>
+<table align="center" margin=0>
 
    <tr>
     <td align="center" width="96">
