@@ -1,6 +1,9 @@
 
 <h1 align="center"> Hello, I am Nirmal Maharjan</a></h1>
 
+<h2 > My Socials </h2>
+
+
 <h2 align="center">
  <a href="https://www.instagram.com/nirmal_mzn/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
