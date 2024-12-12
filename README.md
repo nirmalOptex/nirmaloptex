@@ -16,7 +16,7 @@
 
 
 </h2>
-<div class="container" style= "height: 399px;">
+<div class="container" style= "height: 399px;" margin="0 auto">
 
 
 <h3>My favorite tools and technologies ⚙️</h3> 
