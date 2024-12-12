@@ -1,5 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/ae/93/ef/ae93efea76cebbc5305f4904f33c6ac0.gif)
-<h1 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=12B307&random=false&width=435&lines=Namaste+%F0%9F%99%8F+My+name+is+Nirmal+" alt="Typing SVG" /></a></h1>
+
+<h1 align="center"> Hello, I am Nirmal Maharjan</a></h1>
 
 <h2 align="center">
  <a href="https://www.instagram.com/nirmal_mzn/">
