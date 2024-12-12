@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello, I am Nirmal Maharjan</a></h1>
-
+<div>
 <h2 > My Socials </h2>
 
 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
-
+</div>
 </h2>
 <div class="container" style= "height: 399px;" >
 
